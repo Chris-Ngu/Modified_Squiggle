@@ -1,0 +1,5 @@
+* Figure out why holes are not see thru (1u-dual not loading in kicad)
+* Wire thumb buttons and connect to diode (check polarity)
+* change thumb buttons to 1u-dual
+* add TRRS footprint
+
