@@ -1,4 +1,4 @@
-43265752887128
+44929893569527
 footprints
 1u-minimal
 
@@ -17,6 +17,13 @@ footprints
 125u-dual
 
 
+0
+4
+2
+footprints
+SW_MX_reversible
+MX-style keyswitch, reversible
+MX,cherry,gateron,kailh
 0
 4
 2
