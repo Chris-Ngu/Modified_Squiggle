@@ -1,3 +1,4 @@
 * add rotary encoder footprint
 * Wire rotary encoder 
-
+* Fix schematics
+* silk screen
