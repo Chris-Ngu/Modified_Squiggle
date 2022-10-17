@@ -7,3 +7,7 @@
 * Moved thumb clusters closer (Similar to Sweep)
 * Added rotary encoder
 * General aesthetic changes (shape, silkscreen)
+
+
+## Left off
+* Working on adding encoder onto schematics and wiring onto pro micro
